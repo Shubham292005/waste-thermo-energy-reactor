@@ -59,7 +59,7 @@ We welcome contributions! Please open issues or submit pull requests to improve 
 
 ## 📫 Contact / Author Info
 - 👨‍💻 **Shubham Chadda**
-- 📧 chaddashubham91@gmail.com
+- 📧 shubhamchadda473@gmail.com
 - 🌐 [Project Website](https://sites.google.com/view/wastethermo2025shubham/home)
 - 🧑‍💻 GitHub: [Shubham292005](https://github.com/Shubham292005)
 - 🐦 Twitter: [@Shubham292005](https://x.com/Shubham292005)
